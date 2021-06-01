@@ -22,10 +22,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.1931" />
-    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.5-pr173.12">
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
     <PackageReference Include="Xamarin.CommunityToolkit" Version="1.0.2" />
   </ItemGroup>
   <ItemGroup>
